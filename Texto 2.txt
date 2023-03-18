@@ -1,2 +1,1 @@
-Olá mundo
-Sou o texto 2
+Alterando arquivo na branch staging
